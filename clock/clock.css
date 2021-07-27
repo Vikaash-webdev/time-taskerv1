@@ -1,0 +1,18 @@
+body {
+    background: transparent;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: red;
+    font-size: 60px;
+    overflow: hidden;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+   
+
+
+}
